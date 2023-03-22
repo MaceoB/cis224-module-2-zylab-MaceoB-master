@@ -1,6 +1,6 @@
 # CIS224 Module 2 zyLab #
-- Student Name:
-- Date:
+- Student Name: Maceo Bramante
+- Date: 3/21/2023
 
 
 ## INSTRUCTIONS ##
